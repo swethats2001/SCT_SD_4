@@ -1,5 +1,7 @@
 # SkillCraft Technology Internship Task
---------------------------------------------
+------------------------------------------
+Welcome to my internship task repository! This repository contains the task assigned during my internship as a Software Development Intern at Skillcraft Technology. This task focuses on developing my skills in programming, problem-solving, and software development. As a Software Development Intern at Skillcraft Technology, I’m working on real-world projects and building practical skills in software development.
+
 E-Commerce Data Scraper
 --------------------------------------------
 This Python program extracts product information (such as names, prices, and ratings) from an e-commerce website and saves the data in a structured format as a CSV file. It is an excellent tool for learning web scraping and automating data collection from online stores.
